@@ -24,8 +24,29 @@ menu:
     - name: LinkedIn
       weight: 6
       url: "https://www.linkedin.com/groups/10090216/"
-      params: 
+      params:
         icon: linkedin
+
+# Parse Git commit
+enableGitInfo: true
+
+params:
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: wide
+
+  # Search
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
 
 module:
   imports:
