@@ -31,6 +31,8 @@ menu:
 enableGitInfo: true
 
 params:
+  repository: "https://github.com/yanfosec/org-framework"
+
   # Display the last modification date
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
