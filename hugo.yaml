@@ -49,6 +49,10 @@ params:
     flexsearch:
       # index page by: content | summary | heading | title
       index: content
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 module:
   imports:
