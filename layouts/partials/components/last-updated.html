@@ -1,6 +1,4 @@
 {{- $lastUpdated := (T "lastUpdated") | default "Last updated on" -}}
-<a href="{{ .Site.Params.repository }}/edit/main/content/{{ .File.Path }}">Edit
-    this page</a>
 
 {{- if site.Params.displayUpdatedDate -}}
 {{- with .Lastmod -}}
@@ -8,7 +6,9 @@
 <div
     class="hx:mt-12 hx:mb-8 hx:block hx:text-xs hx:text-gray-500 hx:ltr:text-right hx:rtl:text-left hx:dark:text-gray-400">{{
     $lastUpdated }} <time datetime="{{ $datetime }}">{{ partial
-        "utils/format-date" . }}</time></div>
+        "utils/format-date" . }}</time><br><a
+        href="{{ .Site.Params.repository }}/edit/main/content/{{ .File.Path }}">Edit
+        this page</a></div>
 {{- else -}}
 <div class="hx:mt-16"></div>
 {{- end -}}
