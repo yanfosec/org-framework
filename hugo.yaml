@@ -49,14 +49,14 @@ params:
   dateFormat: "January 2, 2006"
 
   comments:
-    enable: true
+    enable: false
     type: giscus
 
     giscus:
-      repo: yanfosec/org-framework
-      repoId: R_kgDOOt-2gA
-      category: General
-      categoryId: DIC_kwDOOt-2gM4Cqods
+      repo: "yanfosec/org-framework"
+      repoId: "R_kgDOOt-2gA"
+      category: "General"
+      categoryId: "DIC_kwDOOt-2gM4Cqods"
 
   page:
     # full (100%), wide (90rem), normal (1280px)

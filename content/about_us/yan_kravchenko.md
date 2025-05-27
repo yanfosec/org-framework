@@ -1,12 +1,12 @@
 ---
-title: Yan Kravchenko
+title: Yan Kravchenko, CISSP, CSSLP
 cascade: 
   type: default
 
 ---
-# Yan Kravchenko,CISSP, CSSLP
 {{< cards >}}
-  {{< card title="Yan Kravchenko" image="/img/yan_kravchenko.jpg" subtitle="Founder" >}}
+  {{< card title="Yan Kravchenko, CISSP, CSSLP" image="/img/yan_kravchenko.jpg" subtitle="Founder" >}}
+
 {{< /cards >}}
 
 Results driven Information Security Leader | Innovator | Speaker
