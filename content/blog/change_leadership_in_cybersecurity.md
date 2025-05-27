@@ -3,8 +3,14 @@ title: Change Leadership in Cybersecurity
 cascade: 
   type: blog
 summary: "In today’s fast-changing threat landscape, effective change leadership is essential for building cyber resilience. This blog explores how transformational leadership can align cybersecurity with business goals, foster a culture of shared responsibility, and drive agility in security practices. It highlights emerging trends such as human-centered security, adaptive governance, and cross-functional collaboration. Practical strategies for leading change—like stakeholder engagement, transparent communication, and celebrating small wins—are also discussed. The post encourages leaders to share their experiences and join the Cyber Resilience Leaders Network to collaborate on shaping a more resilient digital future."
-author: Yan Kravchenko
-date: 2025-05-26T09:00:00-06:00
+authors: 
+  - name: Yan Kravchenko
+    link: https://yanfosec.com/
+    image: /img/yan_kravchenko.jpg
+date: 2025-05-26
+tags:
+  - cybersecurity
+  - resilience
 ---
 **Introduction**
 In an era where cyber threats evolve faster than ever, the ability to lead change effectively has become a cornerstone of cyber resilience. Traditional security measures alone are no longer sufficient. What organizations need today is transformational leadership—leaders who can drive cultural, strategic, and operational shifts that embed cybersecurity into the very fabric of the business.

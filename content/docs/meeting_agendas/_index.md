@@ -2,6 +2,7 @@
 title: Meeting Agendas
 cascade:
   type: doc
+comments: true
 ---
 
 ## Meeting Agendas for Business Unit Engagement
