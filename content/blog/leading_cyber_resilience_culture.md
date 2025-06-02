@@ -3,7 +3,7 @@ title:  How Effective Leadership Cultivates a Culture of Cyber Resilience
 cascade:
   type: blog
 summary: "In an era where cyber threats are increasingly sophisticated, fostering a culture of cyber resilience is paramount for organizations. This initiative begins with strong leadership commitment, which empowers every employee to embrace cybersecurity as a shared responsibility. An inclusive leadership team, composed of diverse perspectives, plays a crucial role in enhancing the collective understanding of cybersecurity practices."
-date: 2025-06-2
+date: 2025-06-02
 tags:
   - cybersecurity
   - resilience
