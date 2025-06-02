@@ -1,16 +1,20 @@
 ---
 title: Importance of Cyber Resilience
-cascade: 
+cascade:
   type: blog
 summary: "Cyber resilience is essential in today's digital landscape, encompassing preparedness, detection, response, recovery,  daptation, and awareness and training. It enables organizations to withstand and recover from cyber threats, safeguarding sensitive information, reputation, and operational continuity. Strong leadership and proactive engagement help integrate cybersecurity into all facets of an organization, nurturing a culture of resilience. "
-authors: 
-  - name: Yan Kravchenko
-    link: https://yanfosec.com/
 date: 2025-05-20
 tags:
   - cybersecurity
   - resilience
+  - incident_response
 comments: true
+description: Cyber resilience ensures organizations detect, respond, and recover from cyber threats, protecting data, reputation, and operations.
+authors:
+  - name: Yan Kravchenko
+    link: https://www.linkedin.com/in/yanfosec/
+    fieldGroup: authors_group
+    image: /img/yan_kravchenko.jpg
 ---
 **Introduction**  
 

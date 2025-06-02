@@ -7,7 +7,7 @@ cascade:
 {{< cards >}}
   {{< card title="Yan Kravchenko, CISSP, CSSLP" image="/img/yan_kravchenko.jpg" subtitle="Founder" >}}
 
-{{< /cards >}}
+{{< /cards >}}  
 
 Results driven Information Security Leader | Innovator | Speaker
 
