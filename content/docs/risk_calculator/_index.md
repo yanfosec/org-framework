@@ -1,7 +1,8 @@
 ---
-title: Model Categories
+title: "Risk Calculator"
+weight: 1
 cascade:
-  type: doc
+  type: docs
 ---
 
 
