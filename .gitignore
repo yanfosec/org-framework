@@ -1,7 +1,11 @@
 # Hugo build output
 /public/
 /resources/_gen/
+/assets/jsconfig.json
 /hugo_stats.json
+
+# Temporary lock file while building
+/.hugo_build.lock
 
 # Node.js dependencies (if using npm/yarn for assets)
 node_modules/
@@ -17,4 +21,3 @@ Thumbs.db
 # Backup files
 *.bak
 *~
-
