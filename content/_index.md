@@ -8,8 +8,6 @@ cascade:
 
 In a world where digital threats evolve daily, so must our strategies. The **Cyber Resilience Leaders Network** is proud to host the **most current version** of the **Organizational Engagement Framework**—a dynamic, community-driven model designed to align cybersecurity with organizational strategy and leadership.
 
-
-
 ## About This Site
 
 This website is the **central hub** for the Organizational Engagement Framework and all its **supplemental materials**, including:
@@ -20,8 +18,6 @@ This website is the **central hub** for the Organizational Engagement Framework 
 - Leadership tools
 
 It is continuously updated to reflect the latest thinking, best practices, and real-world insights from cybersecurity leaders around the globe.
-
-
 
 ## What You’ll Find
 
@@ -37,8 +33,6 @@ It is continuously updated to reflect the latest thinking, best practices, and r
 - **Incident Response Planning**  
   Learn how to design adaptive, feedback-driven response plans that evolve with your organization’s needs.
 
-
-
 ## Get Involved
 
 - 💡 **Contribute on {{< icon "github" >}}GitHub**  
@@ -46,4 +40,3 @@ It is continuously updated to reflect the latest thinking, best practices, and r
 
 - 🤝 **Join the Conversation on {{< icon "linkedin" >}}LinkedIn**  
   Become part of the [**Cyber Resilience Leaders Network**](https://www.linkedin.com/groups/10090216/) on LinkedIn. Connect with peers, share insights, and grow your leadership impact in a collaborative, professional community.
-
