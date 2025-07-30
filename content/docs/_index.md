@@ -5,8 +5,7 @@ cascade:
   type: docs
 ---
 
-
-# 🚧 Under Construction 🚧
+## 🚧 Under Construction 🚧
 
 Welcome to the **future home** of the **Organizational Resilience Model** — where chaos meets clarity, and spreadsheets learn to meditate.
 
