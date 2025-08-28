@@ -12,7 +12,7 @@ tags:
   - cybersecurity
   - resilience
 ---
-# Building Cyber Resilience: The New Age Fortress
+## Building Cyber Resilience: The New Age Fortress
 
 In today's digital epoch, where cyber threats loom large and breaches are not just a possibility but an inevitability, it's crucial for Chief Information Security Officers (CISOs) and Information Security Executives to rethink their approach to cybersecurity. The adage that the likelihood of experiencing a cybersecurity event is 100% serves not as a harbinger of doom but as a clarion call for preparedness and resilience. This blog will explore the evolving landscape of cybersecurity, focusing on building resilience and implementing effective strategies during inevitable breaches.
 
@@ -84,6 +84,7 @@ As CISOs and Information Security Executives, the transition to a resilient cybe
 The quest for cybersecurity resilience is ongoing and evolving. As an industry, we must engage in open discussions to learn from both successes and failures.
 
 Now, I invite you to share your thoughts:
+
 - How has your organization adapted to the increasing inevitability of cyber breaches?
 - What strategies have you implemented that could serve as a model for others seeking to enhance resilience?
 

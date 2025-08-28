@@ -16,11 +16,11 @@ tags:
   - business_units
 ---
 
-# Enhancing Organizational Engagement through CRM-like Methods for CISOs
+## Enhancing Organizational Engagement through CRM-like Methods for CISOs
 
 In the rapidly evolving landscape of information security, the role of Chief Information Security Officers (CISOs) and Information Security Executives has expanded significantly beyond merely protecting data and systems. They are now also responsible for fostering organizational resilience and ensuring that every business unit is engaged and aligned with the overall cybersecurity strategy. One effective way to achieve this engagement is by employing CRM-like methods to create an inventory of business units. This blog will explore a strategic approach to enhance organizational engagement through these methods, diving deeper into each step for practical implementation.
 
-## 1. Define Key Attributes
+### 1. Define Key Attributes
 
 To initiate an effective engagement strategy, it is essential to identify the critical attributes of each business unit. This includes assessing factors such as size, revenue, risk level, and strategic importance. Each of these attributes plays a significant role in shaping your organization’s security posture.
 
@@ -32,7 +32,7 @@ To initiate an effective engagement strategy, it is essential to identify the cr
 
 By starting with this foundational understanding of business unit attributes, CISOs can make data-informed decisions regarding which units require more attention, resources, and tailored security strategies.
 
-## 2. Establish Key Contacts
+### 2. Establish Key Contacts
 
 Similar to traditional CRM systems, understanding the internal stakeholders within each business unit is paramount. Identifying key contacts—those who hold responsibilities crucial to managing cybersecurity efforts—facilitates better communication and collaboration.
 
@@ -42,7 +42,7 @@ Similar to traditional CRM systems, understanding the internal stakeholders with
 
 By systematically mapping these contacts, CISOs can foster a proactive approach to information sharing and swift decision-making during critical incidents.
 
-## 3. Map Relationships
+### 3. Map Relationships
 
 After defining key attributes and establishing contacts, the next step is to analyze interdependencies among business units. This relationship mapping is akin to creating a workflow chart that showcases how information flows within the organization.
 
@@ -52,7 +52,7 @@ After defining key attributes and establishing contacts, the next step is to ana
 
 This strategic mapping not only enables the identification of vulnerabilities but also enhances overall situational awareness relating to security at every organizational level.
 
-## 4. Enhance Engagement through Communication
+### 4. Enhance Engagement through Communication
 
 Consistent and timely communication is foundational in keeping business units engaged with cybersecurity efforts. With engagement, organizations instill a culture of accountability where everyone is aware of their responsibilities regarding cybersecurity measures.
 
@@ -62,7 +62,7 @@ Consistent and timely communication is foundational in keeping business units en
 
 By prioritizing continuous engagement, CISOs can establish trust and expertise in security. Teams that are kept informed and involved are more likely to comply with and champion security practices.
 
-## 5. Regular Updates and Reviews
+### 5. Regular Updates and Reviews
 
 Capturing an inventory of business units and their contacts is not a one-time exercise; it requires regular updates and periodic reviews to ensure accuracy and effectiveness. This ongoing process fosters agility and responsiveness to changes in the business environment.
 
@@ -79,5 +79,3 @@ Creating an inventory of business units using CRM-like methods fosters comprehen
 As CISOs and Information Security Executives navigate the complexities of modern businesses, employing such methods provides a framework that not only addresses immediate security needs but also cultivates a proactive, communicative, and engaged security culture.
 
 How are you currently managing your business unit inventory? What strategies have you found to be most effective in fostering engagement and enhancing resilience? Share your thoughts and experiences below!
-
-
